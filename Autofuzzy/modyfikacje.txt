@@ -1,0 +1,35 @@
+Modyfikacje
+
+Autko 1:
+
+Prawy czujnik ultradźwiękowy:
+1. Zamiana pinów ECHO z TRIGGER
+	Stary PIN4 to teraz PIN5
+	Stary PIN5 to teraz PIN4
+	
+2. Zamiana pinów sterujących silnikiem
+	Stary PIN44 to teraz PIN48
+	Stery PIN48 to teraz PIN44
+
+	
+Autko 2:
+1. Zamiana pinów ECHO oraz TRIGGER:
+	Stary PIN4 to teraz PIN5
+	Stary PIN5 to teraz PIN4
+
+2. Zamiana czujnika lewego z prawym
+	Para pinów 4,5 z parą pinów 6,7
+	
+3. Zmiana polaryzacji silników.
+	Silniki kręcą się teraz w stronę przeciwną
+
+
+Autko 4:
+1. Zmiana polaryzacji silników.
+	Silniki kręcą się teraz w stronę przeciwną
+
+	
+	
+	
+Autko 3:
+1. Zamieniony ECHO z TRIGGER dla wszystkich czujników ultradźwiekowych
